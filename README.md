@@ -43,5 +43,3 @@ The dataset used in this project:
 
 🔗 `https://github.com/YBI-Foundation/Dataset/raw/main/Movies%20Recommendation.csv`
 
-If preferred, place the dataset locally in:
-
