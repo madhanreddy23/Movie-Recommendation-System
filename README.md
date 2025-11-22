@@ -1,8 +1,19 @@
-# 🎬Movie-Recommendation-System
+# 🎬 Movie Recommendation System
 
-This project builds a machine learning–based Movie Recommendation System using content similarity and collaborative filtering logic. The goal is to recommend movies similar to the one provided by the user based on metadata and similarity scores.
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-🤖-red?style=for-the-badge)
+![Recommendation System](https://img.shields.io/badge/Recommender-System-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 ---
+
+## 📌 Overview
+
+This project is a **Movie Recommendation System** built using **Machine Learning** and **Content-Based Filtering**.  
+It suggests movies based on similarity of genres, features, and metadata — similar to how **Netflix, Amazon Prime & IMDb** recommend content.
+
+Users can enter a movie and receive top similar movies instantly.
 
 ## 🚀 Features
 
