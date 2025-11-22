@@ -1,4 +1,4 @@
-# #🎬Movie-Recommendation-System
+# 🎬Movie-Recommendation-System
 
 This project builds a machine learning–based Movie Recommendation System using content similarity and collaborative filtering logic. The goal is to recommend movies similar to the one provided by the user based on metadata and similarity scores.
 
